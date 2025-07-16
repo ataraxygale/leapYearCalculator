@@ -29,3 +29,5 @@ Process finished with exit code 0
 ## 🛠️ Tech Stack
 - Python 3.10.0
 - PyCharm IDE
+
+<!-- tags: API_KEY, firebase, secrets, token, env, skytaco -->
